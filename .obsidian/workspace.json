@@ -1,0 +1,343 @@
+{
+  "main": {
+    "id": "b81d70fd5a2d80dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff0fe216e6f760a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b7900b69179eef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG/Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Posições"
+            }
+          },
+          {
+            "id": "5ee845e4981d6229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/25-10-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "25-10-22"
+            }
+          },
+          {
+            "id": "b48c09a49bcce398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/25-10-14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "25-10-14"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3fffc0e3cf34931",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cd2f1141e6901e6",
+        "type": "tabs",
+        "dimension": 73.12326227988879,
+        "children": [
+          {
+            "id": "fc0762e52bf8ae9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "40603f368c42efc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#__PURE__",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d203eb560418b16",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer-history",
+              "state": {},
+              "icon": "lucide-clock",
+              "title": "Web history"
+            }
+          },
+          {
+            "id": "faaee4674a3780f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ]
+      },
+      {
+        "id": "47c193c6d3ef49a0",
+        "type": "tabs",
+        "dimension": 26.876737720111215,
+        "children": [
+          {
+            "id": "8efd85ea43196e44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.500732421875
+  },
+  "right": {
+    "id": "84aaa9415a4273f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "71b9347b36ce10d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "746f490ee4329777",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RPG/R20/Paladins, Entities & Contracts/Gods/Lyf.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lyf"
+            }
+          },
+          {
+            "id": "8b2f2f2e6de7d157",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "84766818e1b5669a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "70b06652fb5f1bca",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0ccadfee7ac3027a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Anime n stuff/reading.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of reading"
+            }
+          },
+          {
+            "id": "e77eca342a2cd908",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {},
+              "icon": "d20",
+              "title": "RPG Manager"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 845.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "omnisearch:Omnisearch": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "iconic:Open rulebook": false,
+      "rpg-manager:RPG Manager": false
+    }
+  },
+  "active": "fc0762e52bf8ae9c",
+  "lastOpenFiles": [
+    "Journal/25-10-21.md",
+    "Journal/25-10-22.md",
+    "RPG/Campaign - Natura/Groups/Ordem da Hidra/Posições.md",
+    "Journal/25-10-14.md",
+    "Journal/attachments/Pasted image 20251021161903.png",
+    "Journal/attachments/Pasted image 20251021161728.png",
+    "Anime n stuff/reading.md",
+    "Journal/25-10-20.md",
+    "Journal/25-10-19.md",
+    "Journal/25-10-17.md",
+    "Templates/Daily/Diário de Conquistas.md",
+    "Journal/25-10-16.md",
+    "RPG/R20/Compiled/Errors.md",
+    "Journal/attachments/Pasted image 20251014161833.png",
+    "Journal/attachments/Pasted image 20251014161003.png",
+    "RPG/R20/Compiled/R20 - rulebook.md",
+    "Journal/25-10-13.md",
+    "Journal/25-10-09.md",
+    "RPG/R20/Bestiary/Sharkodile, Adult.md",
+    "Journal/25-10-12.md",
+    "Journal/25-10-11.md",
+    "RPG/R20/Bestiary/Skeleton, Baby.md",
+    "Journal/25-10-10.md",
+    "RPG/R20/Bestiary/attachments/Skeleton, Baby.jpeg",
+    "RPG/R20/Bestiary/attachments/Unconfirmed 53304.crdownload",
+    "RPG/R20/Combat/Maneuvers.md",
+    "RPG/R20/Combat/Battle Maneuvers.md",
+    "RPG/R20/Conditions.md",
+    "RPG/R20/Bestiary/Skeleton, Eagle.md",
+    "RPG/R20/Bestiary/Skeleton, Boar.md",
+    "RPG/R20/Bestiary/Skeleton, Archer.md",
+    "RPG/R20/Bestiary/Skeleton, Snake.md",
+    "RPG/R20/Bestiary/attachments/Skeleton, Snake 2.jpeg",
+    "RPG/R20/Bestiary/attachments/Unconfirmed 512345.crdownload",
+    "RPG/R20/Bestiary/attachments/Skeleton, Snake.jpeg",
+    "RPG/R20/Bestiary/attachments/Unconfirmed 986052.crdownload",
+    "RPG/R20/Bestiary/attachments/Skeleton, Boar.jpeg",
+    "RPG/R20/Bestiary/attachments/Unconfirmed 758365.crdownload",
+    "RPG/R20/Bestiary/attachments/Skeleton, Eagle.jpg",
+    "RPG/R20/Bestiary/Unconfirmed 816898.crdownload",
+    "RPG/Campaign - Natura/Arcs & Quests/attachments/Pasted image 20251009121556.png",
+    "RPG/Campaign - Natura/Arcs & Quests/attachments",
+    "RPG/Campaign - Natura/Groups/Ordem da Hidra/Skeleton Chart.canvas",
+    "RPG/Campaign - Natura/Arcs & Quests/26 - Caminho à Crópolis, Vulto e Cidade",
+    "Untitled.canvas",
+    "Work/2025/Semana de Inovação/attachments",
+    "Work/2025/Semana de Inovação",
+    "RPG/R20/attachments"
+  ]
+}
